@@ -1,0 +1,9 @@
+[api]
+url_pre=https://newoagate.test.jianbaolife.com/api/login
+
+[switch]
+on=True
+
+[login]
+normal_user=tpacs031
+pwd=d6cecd8d54b40065ae52cc9116e1d5bc

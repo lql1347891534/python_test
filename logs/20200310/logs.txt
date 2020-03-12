@@ -1,0 +1,182 @@
+2020-03-10 17:41:02,936-DEBUG-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 17:41:02,939-DEBUG-将access_token添加到Context
+2020-03-10 17:41:03,357-DEBUG-查询接口请求成功
+2020-03-10 17:44:30,188-DEBUG-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 17:44:30,190-DEBUG-将access_token添加到Context
+2020-03-10 17:44:30,628-DEBUG-查询接口请求成功
+2020-03-10 17:44:31,466-DEBUG-查询接口请求成功
+2020-03-10 17:47:10,348-DEBUG-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 17:47:10,349-DEBUG-将access_token添加到Context
+2020-03-10 17:47:10,841-DEBUG-查询接口请求成功
+2020-03-10 17:47:11,261-DEBUG-查询接口请求成功
+2020-03-10 17:48:15,209-DEBUG-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 17:48:15,210-DEBUG-将access_token添加到Context
+2020-03-10 17:48:15,548-DEBUG-查询接口请求成功
+2020-03-10 17:48:15,807-DEBUG-查询接口请求成功
+2020-03-10 17:55:59,320-DEBUG-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 17:55:59,334-DEBUG-将access_token添加到Context
+2020-03-10 17:55:59,676-DEBUG-查询接口请求成功{'msg': None, 'rc': 0, 'data': {'authorities': ['AUTH_ZK_BDZP_FXQZP', 'AUTH_ZK_SZGL', 'AUTH_ZK_TPAGLBB_SSZT', 'AUTH_ZK_AJGL_FTPQJ', 'AUTH_ZK_SCBB', 'AUTH_ZK_AJGL_DHMX', 'AUTH_ZK_AJGL_CX', 'AUTH_ZK_SCBB_YCFXYSCCMX', 'AUTH_ZK_SJJGL_YCLXG', 'AUTH_ZK_JCK', 'AUTH_ZK_LOGIN', 'AUTH_ZK_JCK_XQNXZ', 'AUTH_ZK_YXGL_XZ', 'AUTH_ZK_BDZP_CX', 'AUTH_ZK_ZYDD_TPSHZP', 'AUTH_ZK_FZGL_XZ', 'AUTH_ZK_BDPZ_CX', 'AUTH_ZK_BXGSPZ_XZ', 'AUTH_ZK_FXQLRPZ_CX', 'AUTH_ZK_SCBB_ZYLTJCC', 'AUTH_TPA_ZKXT', 'AUTH_TPA_SJSH', 'AUTH_TPA_DCDKBB', 'AUTH_ZK_BDSCPZ_BC', 'AUTH_ZK_BXGSSXPZ_XZXG', 'AUTH_TPA_ZKXT_OP', 'AUTH_ZK_SCBB_ZYJKSCJF', 'AUTH_MCISGROUP_add', 'AUTH_ZK_FZGL_XG', 'AUTH_ZK_BDJCKPZ_XZXG', 'AUTH_ZK_BDZP_TPSHZP', 'AUTH_ZK_JCK_SC', 'AUTH_ZK_BXGSPZ_XG', 'AUTH_COMMONCBXX_ADMIN', 'AUTH_TPA_TPSH', 'AUTH_ZK_TPAGLBB_SXMX', 'AUTH_ZK_BDHPPZ_BC', 'AUTH_ZK_ZYDD_ZDZJZP', 'AUTH_ZK_AJGL_KPPP', 'AUTH_ZK_BXGSJCKPZ_XZXG', 'AUTH_ZK_SCBB_HHZYYWBZTJ', 'AUTH_ZK_TPAGLBB_GQSZ', 'AUTH_ZK_AJGL_ZF', 'AUTH_ZK_JNGL_RZ', 'AUTH_TPA_SJQY', 'AUTH_ZK_FZGL', 'AUTH_TPA_LRFH', 'AUTH_TPA_OPERATE_DK', 'AUTH_ZK_ZYDD_YXZP', 'AUTH_ZK_FZGL_SC', 'AUTH_ZK_JCK_XQNBJ', 'AUTH_YKTFY_BJYKT', 'AUTH_ZK_FXQLRPZ_BC', 'AUTH_ZK_TPAGLBB_JSZCSXHZ', 'AUTH_ZK_BDZP_BAXXZP', 'AUTH_ZK_BDZP_LRFHZP', 'AUTH_ZK_JCK_XQ', 'AUTH_TPA_SJJGL', 'AUTH_ZK_BDZP_ZJZP', 'AUTH_ZK_BDZP_PZLPSH', 'AUTH_ZK_JCK_XQNSC', 'AUTH_ZK_JNGL_CK', 'AUTH_ZK_FXQLRPZ', 'AUTH_ZK_SZGL_BGSZ', 'AUTH_ZK_TPAGLBB_HPTJ', 'AUTH_TPA_LSGL', 'AUTH_TPA_OPERATE_KK', 'AUTH_ZK_SCBB_ZYLTJZJ', 'AUTH_ZK_XXTS', 'AUTH_CLAIMS_AGENCY_HEAD', 'AUTH_ZK_SJJGL_WCLXG', 'AUTH_ZK_JNGL_CX', 'AUTH_ZK_ZYDD_BAXXZP', 'AUTH_ZK_ZYDD_YC', 'MODULE_MMC_GENUSGROUP', 'AUTH_ZK_ZYDD_LRFHZP', 'AUTH_ZK_SCBB_ZYLTJZD', 'AUTH_ZK_ZYDD_ZJZP', 'AUTH_ZK_SCBB_HHZYZYLZA', 'AUTH_ZK_FZGL_FZJJ', 'AUTH_TPA_XTDL', 'AUTH_ZK_SCBB_ZYLTJXM', 'AUTH_ZK_FZGL_CX', 'AUTH_ZK_SZGL_XG', 'AUTH_ZK_AJGL_DHZJ', 'AUTH_ZK_JNGL_XZ', 'AUTH_TPA_AJBDSH', 'AUTH_ZK_ZYYXJ_CX', 'AUTH_ZK_ZDHHPPZ_BC', 'AUTH_ZK_ZYDD_FXQZP', 'AUTH_ZK_BDZP', 'AUTH_SC_TSYX', 'AUTH_ZK_XXTS_TS', 'AUTH_ZK_SJJGL_YCLCX', 'AUTH_ZK_SJLLPZ_CX', 'AUTH_ZK_ZYDD_QCZP', 'AUTH_ZK_ZYYXJ_SZ', 'AUTH_CLAIMS_AGENCY_GENERAL_SC', 'AUTH_ZK_SCBB_ZYJKXMSX', 'AUTH_ZK_JCKPZ', 'AUTH_ZK_BDZP_DZLR', 'AUTH_ZK_SCBB_ZYJKZTSX', 'AUTH_ZK_ZYDD_TSYXZP', 'AUTH_ZK_SJLLPZ', 'AUTH_ZK_SXPZ', 'AUTH_ZK_AJGL_DHHP', 'AUTH_ZK_SJLLPZ_RZ', 'AUTH_ZK_TPAGLBB_SJCLBQMX', 'AUTH_ZK_ZYDD_DZLR', 'AUTH_ZK_XXTS_CX', 'AUTH_TPA_JSKJ', 'AUTH_ZK_BDPZ_XZ', 'AUTH_ZK_BXGSPZ_CX', 'AUTH_ZK_SJLLPZ_BC', 'AUTH_ZK_ZYDD_PZLPSH', 'AUTH_ZK_TPAGLBB_AJTJNDHZ', 'AUTH_TPA_DCBXGSBB', 'null', 'AUTH_ZK_BDZP_TSYXZP', 'AUTH_ZK_BDZP_YXZP', 'AUTH_ZK_YXGL', 'AUTH_ZK_BDPZ_XG', 'AUTH_ZK_ZYYXJ', 'AUTH_ZK_BDPZ', 'AUTH_ZK_AJGL', 'AUTH_TPA_OPERATE_HX', 'AUTH_ZK_JFPZ', 'AUTH_ZK_ZYDD_YRZJ', 'AUTH_ZK_JKBB', 'AUTH_ZK_YXGL_SC', 'AUTH_TPA_YXGL', 'AUTH_ZK_TPAGLBB', 'AUTH_ZK_BDSXPZ_XZXG', 'AUTH_INSUREDUNIT_ADMIN', 'AUTH_ZK_AJGL_PZCS', 'AUTH_TPA_PRODUCTION_QUALITY', 'AUTH_ZK_ZYDD_CX', 'AUTH_ZK_JCK_CX', 'AUTH_ZK_BDZP_ZDZJZP', 'AUTH_ZK_JNGL', 'AUTH_ZK_ZYDD_AJZB', 'AUTH_ZK_ZYDD_SJLRZP', 'AUTH_MCARD_ADMIN', 'AUTH_ZK_BDZP_ZP', 'AUTH_ZK_JNGL_XG', 'AUTH_ZK_ZYDD_DD', 'AUTH_ZK_JCK_DC', 'AUTH_ZK_YXGL_CX', 'AUTH_ZK_FZGL_ZNSC', 'AUTH_ZK_SJJGL', 'AUTH_ZK_SY', 'AUTH_ZK_HCGL', 'AUTH_USER', 'AUTH_ZK_AJGL_YXCQ', 'AUTH_ZK_SCBB_HHZYZYLFA', 'AUTH_TPA_SC_MBLR', 'AUTH_ZK_KPIPZ', 'AUTH_ZK_SJJGL_WCLCX', 'AUTH_CLAIMS_INSURANCE_AGENCY', 'AUTH_SC_SJZJ', 'AUTH_TPA_PZLPSH', 'AUTH_TPA_SJLR', 'AUTH_ZK_ZDHHPPZ', 'AUTH_ZK_ZYDD', 'AUTH_ZK_TPAGLBB_JCHZ', 'AUTH_TPA_SCLPJG', 'AUTH_ZK_BDZP_SJLRZP', 'AUTH_ZK_BXGSPZ', 'AUTH_ZK_SCBB_YCFXCCMX', 'AUTH_ZK_JCK_UP'], 'token': {'access_token': 'b4996e16-9c17-4a0b-9347-8e493b49df7e', 'refresh_token': 'fc1a590d-0135-46d7-a106-797158f9cac3', 'lastLoginTime': None, 'realName': 'TPA事业部', 'phone': '', 'scope': ['openid'], 'mobile': '', 'name': 'tpacs031', 'id': '8af5b9c15cf825cc015cfbe17bb50030', 'token_type': 'bearer', 'expires_in': 7163535, 'email': '3Qqmcg9MyPmctO52hAtA5Q=='}}}
+2020-03-10 17:55:59,951-DEBUG-查询接口请求成功{'total': 425, 'code': 0, 'pages': 43, 'data': [{'generalCaseId': 11463, 'generalCaseNo': '10588020200310011', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11462, 'generalCaseNo': '10588020200310010', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11461, 'generalCaseNo': '976550920200310003', 'agentId': '2c94819558479a4901584bc7114a274a', 'agentName': '中国人寿保险股份有限公司北京分公司', 'unitId': 101277, 'unitName': '中交地产股份有限公司', 'policyId': '2c95827070c36b2c0170c36bd5820000', 'policyNo': '110005652890088', 'canPhotoClaim': 1, 'claimType': 0, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 1, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': {'inspect': False}}, {'generalCaseId': 11460, 'generalCaseNo': '10588020200310009', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11459, 'generalCaseNo': '976550920200310002', 'agentId': '2c94819558479a4901584bc7114a274a', 'agentName': '中国人寿保险股份有限公司北京分公司', 'unitId': 101277, 'unitName': '中交地产股份有限公司', 'policyId': '2c95827070c36b2c0170c36bd5820000', 'policyNo': '110005652890088', 'canPhotoClaim': 1, 'claimType': 0, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 1, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': {'inspect': False}}, {'generalCaseId': 11458, 'generalCaseNo': '10588020200310008', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11457, 'generalCaseNo': '10588020200310007', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11456, 'generalCaseNo': '10588020200310006', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11455, 'generalCaseNo': '22334020200310036', 'agentId': '8af5b9c166ab08b20166ae5bb4c80010', 'agentName': '中华联合人寿保险股份有限公司', 'unitId': 100872, 'unitName': '大业信托有限责任公司', 'policyId': '8af5b9c16b53a6fe016b540544110044', 'policyNo': '66861100201900000792', 'canPhotoClaim': 1, 'claimType': 1, 'icSerialNo': '', 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': 'cic_fudeli', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11454, 'generalCaseNo': '22334020200310035', 'agentId': '8af5b9c166ab08b20166ae5bb4c80010', 'agentName': '中华联合人寿保险股份有限公司', 'unitId': 100873, 'unitName': '中华联合半流程测试保单', 'policyId': '8af5b9c166ab08b20166ae58d3fe000e', 'policyNo': 'blc20190625', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': '', 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': 'cic_fudeli', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}], 'message': '成功'}
+2020-03-10 18:02:51,633-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 18:02:51,634-INFO-将access_token添加到Context
+2020-03-10 18:02:52,314-INFO-查询接口请求成功{'msg': None, 'rc': 0, 'data': {'authorities': ['AUTH_ZK_BDZP_FXQZP', 'AUTH_ZK_SZGL', 'AUTH_ZK_TPAGLBB_SSZT', 'AUTH_ZK_AJGL_FTPQJ', 'AUTH_ZK_SCBB', 'AUTH_ZK_AJGL_DHMX', 'AUTH_ZK_AJGL_CX', 'AUTH_ZK_SCBB_YCFXYSCCMX', 'AUTH_ZK_SJJGL_YCLXG', 'AUTH_ZK_JCK', 'AUTH_ZK_LOGIN', 'AUTH_ZK_JCK_XQNXZ', 'AUTH_ZK_YXGL_XZ', 'AUTH_ZK_BDZP_CX', 'AUTH_ZK_ZYDD_TPSHZP', 'AUTH_ZK_FZGL_XZ', 'AUTH_ZK_BDPZ_CX', 'AUTH_ZK_BXGSPZ_XZ', 'AUTH_ZK_FXQLRPZ_CX', 'AUTH_ZK_SCBB_ZYLTJCC', 'AUTH_TPA_ZKXT', 'AUTH_TPA_SJSH', 'AUTH_TPA_DCDKBB', 'AUTH_ZK_BDSCPZ_BC', 'AUTH_ZK_BXGSSXPZ_XZXG', 'AUTH_TPA_ZKXT_OP', 'AUTH_ZK_SCBB_ZYJKSCJF', 'AUTH_MCISGROUP_add', 'AUTH_ZK_FZGL_XG', 'AUTH_ZK_BDJCKPZ_XZXG', 'AUTH_ZK_BDZP_TPSHZP', 'AUTH_ZK_JCK_SC', 'AUTH_ZK_BXGSPZ_XG', 'AUTH_COMMONCBXX_ADMIN', 'AUTH_TPA_TPSH', 'AUTH_ZK_TPAGLBB_SXMX', 'AUTH_ZK_BDHPPZ_BC', 'AUTH_ZK_ZYDD_ZDZJZP', 'AUTH_ZK_AJGL_KPPP', 'AUTH_ZK_BXGSJCKPZ_XZXG', 'AUTH_ZK_SCBB_HHZYYWBZTJ', 'AUTH_ZK_TPAGLBB_GQSZ', 'AUTH_ZK_AJGL_ZF', 'AUTH_ZK_JNGL_RZ', 'AUTH_TPA_SJQY', 'AUTH_ZK_FZGL', 'AUTH_TPA_LRFH', 'AUTH_TPA_OPERATE_DK', 'AUTH_ZK_ZYDD_YXZP', 'AUTH_ZK_FZGL_SC', 'AUTH_ZK_JCK_XQNBJ', 'AUTH_YKTFY_BJYKT', 'AUTH_ZK_FXQLRPZ_BC', 'AUTH_ZK_TPAGLBB_JSZCSXHZ', 'AUTH_ZK_BDZP_BAXXZP', 'AUTH_ZK_BDZP_LRFHZP', 'AUTH_ZK_JCK_XQ', 'AUTH_TPA_SJJGL', 'AUTH_ZK_BDZP_ZJZP', 'AUTH_ZK_BDZP_PZLPSH', 'AUTH_ZK_JCK_XQNSC', 'AUTH_ZK_JNGL_CK', 'AUTH_ZK_FXQLRPZ', 'AUTH_ZK_SZGL_BGSZ', 'AUTH_ZK_TPAGLBB_HPTJ', 'AUTH_TPA_LSGL', 'AUTH_TPA_OPERATE_KK', 'AUTH_ZK_SCBB_ZYLTJZJ', 'AUTH_ZK_XXTS', 'AUTH_CLAIMS_AGENCY_HEAD', 'AUTH_ZK_SJJGL_WCLXG', 'AUTH_ZK_JNGL_CX', 'AUTH_ZK_ZYDD_BAXXZP', 'AUTH_ZK_ZYDD_YC', 'MODULE_MMC_GENUSGROUP', 'AUTH_ZK_ZYDD_LRFHZP', 'AUTH_ZK_SCBB_ZYLTJZD', 'AUTH_ZK_ZYDD_ZJZP', 'AUTH_ZK_SCBB_HHZYZYLZA', 'AUTH_ZK_FZGL_FZJJ', 'AUTH_TPA_XTDL', 'AUTH_ZK_SCBB_ZYLTJXM', 'AUTH_ZK_FZGL_CX', 'AUTH_ZK_SZGL_XG', 'AUTH_ZK_AJGL_DHZJ', 'AUTH_ZK_JNGL_XZ', 'AUTH_TPA_AJBDSH', 'AUTH_ZK_ZYYXJ_CX', 'AUTH_ZK_ZDHHPPZ_BC', 'AUTH_ZK_ZYDD_FXQZP', 'AUTH_ZK_BDZP', 'AUTH_SC_TSYX', 'AUTH_ZK_XXTS_TS', 'AUTH_ZK_SJJGL_YCLCX', 'AUTH_ZK_SJLLPZ_CX', 'AUTH_ZK_ZYDD_QCZP', 'AUTH_ZK_ZYYXJ_SZ', 'AUTH_CLAIMS_AGENCY_GENERAL_SC', 'AUTH_ZK_SCBB_ZYJKXMSX', 'AUTH_ZK_JCKPZ', 'AUTH_ZK_BDZP_DZLR', 'AUTH_ZK_SCBB_ZYJKZTSX', 'AUTH_ZK_ZYDD_TSYXZP', 'AUTH_ZK_SJLLPZ', 'AUTH_ZK_SXPZ', 'AUTH_ZK_AJGL_DHHP', 'AUTH_ZK_SJLLPZ_RZ', 'AUTH_ZK_TPAGLBB_SJCLBQMX', 'AUTH_ZK_ZYDD_DZLR', 'AUTH_ZK_XXTS_CX', 'AUTH_TPA_JSKJ', 'AUTH_ZK_BDPZ_XZ', 'AUTH_ZK_BXGSPZ_CX', 'AUTH_ZK_SJLLPZ_BC', 'AUTH_ZK_ZYDD_PZLPSH', 'AUTH_ZK_TPAGLBB_AJTJNDHZ', 'AUTH_TPA_DCBXGSBB', 'null', 'AUTH_ZK_BDZP_TSYXZP', 'AUTH_ZK_BDZP_YXZP', 'AUTH_ZK_YXGL', 'AUTH_ZK_BDPZ_XG', 'AUTH_ZK_ZYYXJ', 'AUTH_ZK_BDPZ', 'AUTH_ZK_AJGL', 'AUTH_TPA_OPERATE_HX', 'AUTH_ZK_JFPZ', 'AUTH_ZK_ZYDD_YRZJ', 'AUTH_ZK_JKBB', 'AUTH_ZK_YXGL_SC', 'AUTH_TPA_YXGL', 'AUTH_ZK_TPAGLBB', 'AUTH_ZK_BDSXPZ_XZXG', 'AUTH_INSUREDUNIT_ADMIN', 'AUTH_ZK_AJGL_PZCS', 'AUTH_TPA_PRODUCTION_QUALITY', 'AUTH_ZK_ZYDD_CX', 'AUTH_ZK_JCK_CX', 'AUTH_ZK_BDZP_ZDZJZP', 'AUTH_ZK_JNGL', 'AUTH_ZK_ZYDD_AJZB', 'AUTH_ZK_ZYDD_SJLRZP', 'AUTH_MCARD_ADMIN', 'AUTH_ZK_BDZP_ZP', 'AUTH_ZK_JNGL_XG', 'AUTH_ZK_ZYDD_DD', 'AUTH_ZK_JCK_DC', 'AUTH_ZK_YXGL_CX', 'AUTH_ZK_FZGL_ZNSC', 'AUTH_ZK_SJJGL', 'AUTH_ZK_SY', 'AUTH_ZK_HCGL', 'AUTH_USER', 'AUTH_ZK_AJGL_YXCQ', 'AUTH_ZK_SCBB_HHZYZYLFA', 'AUTH_TPA_SC_MBLR', 'AUTH_ZK_KPIPZ', 'AUTH_ZK_SJJGL_WCLCX', 'AUTH_CLAIMS_INSURANCE_AGENCY', 'AUTH_SC_SJZJ', 'AUTH_TPA_PZLPSH', 'AUTH_TPA_SJLR', 'AUTH_ZK_ZDHHPPZ', 'AUTH_ZK_ZYDD', 'AUTH_ZK_TPAGLBB_JCHZ', 'AUTH_TPA_SCLPJG', 'AUTH_ZK_BDZP_SJLRZP', 'AUTH_ZK_BXGSPZ', 'AUTH_ZK_SCBB_YCFXCCMX', 'AUTH_ZK_JCK_UP'], 'token': {'access_token': 'b4996e16-9c17-4a0b-9347-8e493b49df7e', 'refresh_token': 'fc1a590d-0135-46d7-a106-797158f9cac3', 'lastLoginTime': None, 'realName': 'TPA事业部', 'phone': '', 'scope': ['openid'], 'mobile': '', 'name': 'tpacs031', 'id': '8af5b9c15cf825cc015cfbe17bb50030', 'token_type': 'bearer', 'expires_in': 7163122, 'email': '3Qqmcg9MyPmctO52hAtA5Q=='}}}
+2020-03-10 18:02:53,233-INFO-查询接口请求成功{'total': 425, 'code': 0, 'pages': 43, 'data': [{'generalCaseId': 11463, 'generalCaseNo': '10588020200310011', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11462, 'generalCaseNo': '10588020200310010', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11461, 'generalCaseNo': '976550920200310003', 'agentId': '2c94819558479a4901584bc7114a274a', 'agentName': '中国人寿保险股份有限公司北京分公司', 'unitId': 101277, 'unitName': '中交地产股份有限公司', 'policyId': '2c95827070c36b2c0170c36bd5820000', 'policyNo': '110005652890088', 'canPhotoClaim': 1, 'claimType': 0, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 1, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': {'inspect': False}}, {'generalCaseId': 11460, 'generalCaseNo': '10588020200310009', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11459, 'generalCaseNo': '976550920200310002', 'agentId': '2c94819558479a4901584bc7114a274a', 'agentName': '中国人寿保险股份有限公司北京分公司', 'unitId': 101277, 'unitName': '中交地产股份有限公司', 'policyId': '2c95827070c36b2c0170c36bd5820000', 'policyNo': '110005652890088', 'canPhotoClaim': 1, 'claimType': 0, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 1, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': {'inspect': False}}, {'generalCaseId': 11458, 'generalCaseNo': '10588020200310008', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11457, 'generalCaseNo': '10588020200310007', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11456, 'generalCaseNo': '10588020200310006', 'agentId': '8af5b9c16532426301653620ceeb000e', 'agentName': '英大泰和人寿保险股份有限公司', 'unitId': 101274, 'unitName': '英大联调投保单位', 'policyId': '2c958270708adc1b01709004398e0017', 'policyNo': '00000000000000000000', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': None, 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': '英大http收件', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11455, 'generalCaseNo': '22334020200310036', 'agentId': '8af5b9c166ab08b20166ae5bb4c80010', 'agentName': '中华联合人寿保险股份有限公司', 'unitId': 100872, 'unitName': '大业信托有限责任公司', 'policyId': '8af5b9c16b53a6fe016b540544110044', 'policyNo': '66861100201900000792', 'canPhotoClaim': 1, 'claimType': 1, 'icSerialNo': '', 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': 'cic_fudeli', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}, {'generalCaseId': 11454, 'generalCaseNo': '22334020200310035', 'agentId': '8af5b9c166ab08b20166ae5bb4c80010', 'agentName': '中华联合人寿保险股份有限公司', 'unitId': 100873, 'unitName': '中华联合半流程测试保单', 'policyId': '8af5b9c166ab08b20166ae58d3fe000e', 'policyNo': 'blc20190625', 'canPhotoClaim': 1, 'claimType': 2, 'icSerialNo': '', 'totalCaseNum': 1, 'billCheck': 0, 'claimFileUrl': '', 'receiveTime': '2020-03-10', 'receiveSource': 'cic_fudeli', 'returnTime': None, 'priority': 0, 'remark': '', 'customRemark': None}], 'message': '成功'}
+2020-03-10 19:15:29,133-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 19:15:29,153-INFO-将access_token添加到Context
+2020-03-10 19:15:29,574-INFO-登录接口请求成功None
+2020-03-10 19:15:29,836-INFO-分案查询接口请求成功成功
+2020-03-10 19:16:37,798-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 19:16:37,800-INFO-将access_token添加到Context
+2020-03-10 19:16:38,141-INFO-登录接口请求成功None
+2020-03-10 19:17:19,642-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 19:17:19,644-INFO-将access_token添加到Context
+2020-03-10 19:17:20,003-INFO-登录接口请求成功None
+2020-03-10 19:17:20,241-INFO-分案查询接口请求成功成功
+2020-03-10 19:17:51,198-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 19:17:51,199-INFO-将access_token添加到Context
+2020-03-10 19:17:51,545-INFO-登录接口请求成功  None
+2020-03-10 19:17:51,789-INFO-分案查询接口请求成功 成功
+2020-03-10 19:19:44,274-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 19:19:44,277-INFO-将access_token添加到Context
+2020-03-10 19:19:44,666-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/api/login
+2020-03-10 19:19:44,668-INFO-登录接口请求成功  message:None
+2020-03-10 19:19:44,927-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase
+2020-03-10 19:19:44,929-INFO-分案查询接口请求成功 message:成功
+2020-03-10 20:34:23,777-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 20:34:23,799-INFO-将access_token添加到Context
+2020-03-10 20:34:24,171-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/api/login
+2020-03-10 20:34:24,173-INFO-登录接口请求成功  message:None
+2020-03-10 20:34:24,846-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase
+2020-03-10 20:34:24,849-INFO-分案查询接口请求成功 message:成功
+2020-03-10 21:20:44,795-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 21:20:44,817-INFO-将access_token添加到Context
+2020-03-10 21:20:45,162-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/api/login
+2020-03-10 21:20:45,164-INFO-登录接口请求成功  message:None
+2020-03-10 21:20:45,479-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase
+2020-03-10 21:20:45,481-INFO-分案查询接口请求成功 message:成功
+2020-03-10 21:46:07,241-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 21:46:07,281-INFO-将access_token添加到Context
+2020-03-10 21:46:07,643-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/api/login
+2020-03-10 21:46:07,645-INFO-登录接口请求成功  message:None
+2020-03-10 21:46:07,953-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase
+2020-03-10 21:46:07,956-INFO-分案查询接口请求成功 message:成功
+2020-03-10 22:02:46,214-INFO-old_str replace new_str:{"username":"tpacs031","password":"${pwd}","verify_code":111,"type":"oa_sc_login"}
+2020-03-10 22:02:46,264-INFO-old_str replace new_str:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"}
+2020-03-10 22:09:43,745-INFO-open workbook in the path D:\Python_test\datas\test_data.xlsx
+2020-03-10 22:09:43,787-INFO-get sheet on workbook
+2020-03-10 22:09:43,788-INFO-get case_id:1 from excel
+2020-03-10 22:09:43,789-INFO-get title:登录成功 from excel
+2020-03-10 22:09:43,789-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,790-INFO-get data:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,790-INFO-get method:post from excel
+2020-03-10 22:09:43,791-INFO-get expected:成功 from excel
+2020-03-10 22:09:43,791-INFO-get case_id:2 from excel
+2020-03-10 22:09:43,792-INFO-get title:账户名错误 from excel
+2020-03-10 22:09:43,792-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,793-INFO-get data:{"username":"tpacs00","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,793-INFO-get method:post from excel
+2020-03-10 22:09:43,793-INFO-get expected:找不到用户 from excel
+2020-03-10 22:09:43,794-INFO-get case_id:3 from excel
+2020-03-10 22:09:43,794-INFO-get title:密码错误 from excel
+2020-03-10 22:09:43,795-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,795-INFO-get data:{"username":"tpacs031","password":"cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,795-INFO-get method:post from excel
+2020-03-10 22:09:43,796-INFO-get expected:用户名密码错误 from excel
+2020-03-10 22:09:43,796-INFO-get case_id:4 from excel
+2020-03-10 22:09:43,797-INFO-get title:请求方法错误 from excel
+2020-03-10 22:09:43,797-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,797-INFO-get data:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,798-INFO-get method:get from excel
+2020-03-10 22:09:43,798-INFO-get expected:Request method 'GET' not supported from excel
+2020-03-10 22:09:43,889-INFO-open workbook in the path D:\Python_test\datas\test_data.xlsx
+2020-03-10 22:09:43,889-INFO-get sheet on workbook
+2020-03-10 22:09:43,890-INFO-get case_id:1 from excel
+2020-03-10 22:09:43,890-INFO-get title:登录成功 from excel
+2020-03-10 22:09:43,891-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,891-INFO-get data:{"username":"${normal_user}","password":"${pwd}","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,892-INFO-get method:post from excel
+2020-03-10 22:09:43,892-INFO-get expected:null from excel
+2020-03-10 22:09:43,892-INFO-get case_id:2 from excel
+2020-03-10 22:09:43,893-INFO-get title:分案查询成功 from excel
+2020-03-10 22:09:43,893-INFO-get url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase from excel
+2020-03-10 22:09:43,894-INFO-get data:{"limit":10,"page":1,"generalCaseNo":"","divisionalCaseNo":"", "policyNo":"","name":"","identityNo":"","canPhotoClaim":"","receiveTimeStart":"",
+        "receiveTimeEnd":"","access_token":"${access_token}"} from excel
+2020-03-10 22:09:43,894-INFO-get method:get from excel
+2020-03-10 22:09:43,895-INFO-get expected:成功 from excel
+2020-03-10 22:09:43,937-INFO-open workbook in the path D:\Python_test\datas\test_data.xlsx
+2020-03-10 22:09:43,938-INFO-get sheet on workbook
+2020-03-10 22:09:43,938-INFO-get case_id:1 from excel
+2020-03-10 22:09:43,939-INFO-get title:登录成功 from excel
+2020-03-10 22:09:43,939-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,939-INFO-get data:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,940-INFO-get method:post from excel
+2020-03-10 22:09:43,940-INFO-get expected:成功 from excel
+2020-03-10 22:09:43,941-INFO-get case_id:2 from excel
+2020-03-10 22:09:43,941-INFO-get title:账户名错误 from excel
+2020-03-10 22:09:43,942-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,942-INFO-get data:{"username":"tpacs00","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,943-INFO-get method:post from excel
+2020-03-10 22:09:43,943-INFO-get expected:找不到用户 from excel
+2020-03-10 22:09:43,944-INFO-get case_id:3 from excel
+2020-03-10 22:09:43,944-INFO-get title:密码错误 from excel
+2020-03-10 22:09:43,945-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,945-INFO-get data:{"username":"tpacs031","password":"cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,946-INFO-get method:post from excel
+2020-03-10 22:09:43,946-INFO-get expected:用户名密码错误 from excel
+2020-03-10 22:09:43,946-INFO-get case_id:4 from excel
+2020-03-10 22:09:43,947-INFO-get title:请求方法错误 from excel
+2020-03-10 22:09:43,947-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,948-INFO-get data:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,950-INFO-get method:get from excel
+2020-03-10 22:09:43,950-INFO-get expected:Request method 'GET' not supported from excel
+2020-03-10 22:09:43,993-INFO-open workbook in the path D:\Python_test\datas\test_data.xlsx
+2020-03-10 22:09:43,994-INFO-get sheet on workbook
+2020-03-10 22:09:43,994-INFO-get case_id:1 from excel
+2020-03-10 22:09:43,995-INFO-get title:登录成功 from excel
+2020-03-10 22:09:43,995-INFO-get url:https://newoagate.test.jianbaolife.com/api/login from excel
+2020-03-10 22:09:43,996-INFO-get data:{"username":"${normal_user}","password":"${pwd}","verify_code":111,"type":"oa_sc_login"} from excel
+2020-03-10 22:09:43,996-INFO-get method:post from excel
+2020-03-10 22:09:43,997-INFO-get expected:null from excel
+2020-03-10 22:09:43,997-INFO-get case_id:2 from excel
+2020-03-10 22:09:43,998-INFO-get title:分案查询成功 from excel
+2020-03-10 22:09:43,998-INFO-get url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase from excel
+2020-03-10 22:09:43,999-INFO-get data:{"limit":10,"page":1,"generalCaseNo":"","divisionalCaseNo":"", "policyNo":"","name":"","identityNo":"","canPhotoClaim":"","receiveTimeStart":"",
+        "receiveTimeEnd":"","access_token":"${access_token}"} from excel
+2020-03-10 22:09:44,000-INFO-get method:get from excel
+2020-03-10 22:09:44,000-INFO-get expected:成功 from excel
+2020-03-10 22:09:44,809-INFO-use post request
+2020-03-10 22:09:44,811-INFO-Get json from response
+2020-03-10 22:09:44,812-INFO-Get json from response
+2020-03-10 22:09:45,145-INFO-use post request
+2020-03-10 22:09:45,146-INFO-Get json from response
+2020-03-10 22:09:45,147-INFO-Get json from response
+2020-03-10 22:09:45,504-INFO-use post request
+2020-03-10 22:09:45,505-INFO-Get json from response
+2020-03-10 22:09:45,506-INFO-Get json from response
+2020-03-10 22:09:45,724-INFO-use get request
+2020-03-10 22:09:45,724-INFO-Get json from response
+2020-03-10 22:09:45,725-INFO-Get json from response
+2020-03-10 22:09:45,726-INFO-old_str replace new_str:{"username":"tpacs031","password":"${pwd}","verify_code":111,"type":"oa_sc_login"}
+2020-03-10 22:09:45,727-INFO-old_str replace new_str:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"}
+2020-03-10 22:09:46,068-INFO-use post request
+2020-03-10 22:09:46,069-INFO-Get json from response
+2020-03-10 22:09:46,070-INFO-get access_token from response,access_token:b4996e16-9c17-4a0b-9347-8e493b49df7e
+2020-03-10 22:09:46,070-INFO-Get json from response
+2020-03-10 22:09:46,071-INFO-Get json from response
+2020-03-10 22:09:46,072-INFO-将access_token添加到Context
+2020-03-10 22:09:46,072-INFO-old_str replace new_str:{"username":"tpacs031","password":"${pwd}","verify_code":111,"type":"oa_sc_login"}
+2020-03-10 22:09:46,073-INFO-old_str replace new_str:{"username":"tpacs031","password":"d6cecd8d54b40065ae52cc9116e1d5bc","verify_code":111,"type":"oa_sc_login"}
+2020-03-10 22:09:46,437-INFO-use post request
+2020-03-10 22:09:46,438-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/api/login
+2020-03-10 22:09:46,438-INFO-Get json from response
+2020-03-10 22:09:46,439-INFO-Get json from response
+2020-03-10 22:09:46,439-INFO-登录接口请求成功  message:None
+2020-03-10 22:09:46,440-INFO-old_str replace new_str:{"limit":10,"page":1,"generalCaseNo":"","divisionalCaseNo":"", "policyNo":"","name":"","identityNo":"","canPhotoClaim":"","receiveTimeStart":"",
+        "receiveTimeEnd":"","access_token":"b4996e16-9c17-4a0b-9347-8e493b49df7e"}
+2020-03-10 22:09:46,441-INFO-old_str replace new_str:{"limit":10,"page":1,"generalCaseNo":"","divisionalCaseNo":"", "policyNo":"","name":"","identityNo":"","canPhotoClaim":"","receiveTimeStart":"",
+        "receiveTimeEnd":"","access_token":"b4996e16-9c17-4a0b-9347-8e493b49df7e"}
+2020-03-10 22:09:47,126-INFO-use get request
+2020-03-10 22:09:47,127-INFO-发起http请求，请求url:https://newoagate.test.jianbaolife.com/tpa-sc/api/generalCase
+2020-03-10 22:09:47,127-INFO-Get json from response
+2020-03-10 22:09:47,128-INFO-Get json from response
+2020-03-10 22:09:47,129-INFO-分案查询接口请求成功 message:成功
