@@ -23,8 +23,8 @@ class TestLogin(unittest.TestCase):
         else:
             expected=case.expected
             #断言
-        self.assertEqual(expected,resq.get_json()["msg"])
-        print("成功")
+        self.assertEqual(expected,resq.get_json()["message"])
+        print("操作成功")
 
     def tearDown(self):
         print("测试清除")

@@ -1,0 +1,76 @@
+2020-06-03 15:46:10,408-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 15:46:10,409-INFO-get sheet on workbook
+2020-06-03 15:46:10,409-INFO-get case_id:1 from excel
+2020-06-03 15:46:10,409-INFO-get title:登录成功 from excel
+2020-06-03 15:46:10,409-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 15:46:10,409-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 15:46:10,409-INFO-get method:get from excel
+2020-06-03 15:46:10,409-INFO-get expected:操作成功 from excel
+2020-06-03 15:46:10,417-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 15:46:10,418-INFO-get sheet on workbook
+2020-06-03 15:46:10,418-INFO-get case_id:1 from excel
+2020-06-03 15:46:10,418-INFO-get title:登录成功 from excel
+2020-06-03 15:46:10,418-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 15:46:10,418-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 15:46:10,418-INFO-get method:get from excel
+2020-06-03 15:46:10,419-INFO-get expected:操作成功 from excel
+2020-06-03 15:46:10,921-INFO-use get request
+2020-06-03 15:46:10,922-INFO-Get json from response
+2020-06-03 15:46:10,922-INFO-Get json from response
+2020-06-03 15:47:46,774-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 15:47:46,774-INFO-get sheet on workbook
+2020-06-03 15:47:46,775-INFO-get case_id:1 from excel
+2020-06-03 15:47:46,775-INFO-get title:登录成功 from excel
+2020-06-03 15:47:46,775-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 15:47:46,775-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 15:47:46,775-INFO-get method:get from excel
+2020-06-03 15:47:46,775-INFO-get expected:操作成功 from excel
+2020-06-03 15:47:46,783-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 15:47:46,784-INFO-get sheet on workbook
+2020-06-03 15:47:46,784-INFO-get case_id:1 from excel
+2020-06-03 15:47:46,784-INFO-get title:登录成功 from excel
+2020-06-03 15:47:46,784-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 15:47:46,784-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 15:47:46,784-INFO-get method:get from excel
+2020-06-03 15:47:46,784-INFO-get expected:操作成功 from excel
+2020-06-03 15:47:47,309-INFO-use get request
+2020-06-03 15:47:47,309-INFO-Get json from response
+2020-06-03 15:47:47,310-INFO-Get json from response
+2020-06-03 16:21:49,372-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 16:21:49,372-INFO-get sheet on workbook
+2020-06-03 16:21:49,373-INFO-get case_id:1 from excel
+2020-06-03 16:21:49,373-INFO-get title:登录成功 from excel
+2020-06-03 16:21:49,373-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 16:21:49,373-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 16:21:49,373-INFO-get method:get from excel
+2020-06-03 16:21:49,373-INFO-get expected:操作成功 from excel
+2020-06-03 16:21:49,381-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 16:21:49,381-INFO-get sheet on workbook
+2020-06-03 16:21:49,381-INFO-get case_id:1 from excel
+2020-06-03 16:21:49,381-INFO-get title:登录成功 from excel
+2020-06-03 16:21:49,381-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 16:21:49,382-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 16:21:49,382-INFO-get method:get from excel
+2020-06-03 16:21:49,382-INFO-get expected:操作成功 from excel
+2020-06-03 16:21:49,897-INFO-use get request
+2020-06-03 16:21:49,897-INFO-Get json from response
+2020-06-03 16:21:49,897-INFO-Get json from response
+2020-06-03 16:39:01,117-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 16:39:01,117-INFO-get sheet on workbook
+2020-06-03 16:39:01,117-INFO-get case_id:1 from excel
+2020-06-03 16:39:01,117-INFO-get title:登录成功 from excel
+2020-06-03 16:39:01,118-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 16:39:01,118-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 16:39:01,118-INFO-get method:get from excel
+2020-06-03 16:39:01,118-INFO-get expected:操作成功 from excel
+2020-06-03 16:39:01,126-INFO-open workbook in the path E:\python_test\datas\test_data.xlsx
+2020-06-03 16:39:01,126-INFO-get sheet on workbook
+2020-06-03 16:39:01,126-INFO-get case_id:1 from excel
+2020-06-03 16:39:01,126-INFO-get title:登录成功 from excel
+2020-06-03 16:39:01,126-INFO-get url:http://10.60.44.244/api/mem/member/login from excel
+2020-06-03 16:39:01,126-INFO-get data:{"account": "kylin", "password": "123456", "platformId": 1} from excel
+2020-06-03 16:39:01,126-INFO-get method:get from excel
+2020-06-03 16:39:01,127-INFO-get expected:操作成功 from excel
+2020-06-03 16:39:01,634-INFO-use get request
+2020-06-03 16:39:01,634-INFO-Get json from response
+2020-06-03 16:39:01,635-INFO-Get json from response

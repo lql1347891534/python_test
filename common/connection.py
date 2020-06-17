@@ -4,7 +4,7 @@ from common.do_excel import DoExcel
 from common import logger
 
 class Regnx:
-
+    #利用正则将请求参数里面的token替换
     @staticmethod
     def replace(str):
         pattern="\$\{(.*?)\}"
@@ -16,14 +16,7 @@ class Regnx:
             logger.MyLog.info("old_str replace new_str:{0}".format(str))
         return str
 
-    # @staticmethod
-    # def replace_access_token(str):
-    #     pattern="\$\{(.*?)\}"
-    #     access_token=re.search(pattern,str).group(1)
-    #     new_access_token=getattr(Context,access_token)
-    #     str=re.sub(pattern,new_access_token,str)
-    #     return str
-           
+#定义类，类名.变量名
 class Context:
     conf=ReadConfig()
     normal_user=conf.get("login","normal_user")
